@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Teguh</h1>
-<h3 align="center">U can call me, just "GUH!"</h3>
+<h1 align="center">Helo bro 👋, Gw Teguh</h1>
+<h3 align="center">Panggil Aja "GUH!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiersyahh&label=Profile%20views&color=0e75b6&style=flat" alt="fiersyahh" /> </p>
 
